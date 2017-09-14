@@ -1,2 +1,3 @@
-# my-portfolio
-professional portfolio
+# Chris Martin's portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS
